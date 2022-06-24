@@ -1,0 +1,14 @@
+ul{
+    list-style:none;
+    padding: 0px;
+}
+
+#user-form {
+    display: none;
+  }
+
+  #loader{
+    display:none;
+    justify-content: center;
+    justify-items: center;
+  }
